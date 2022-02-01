@@ -1,7 +1,7 @@
 # CarShop_UML-OCL
 
 ## Overview
-UML model showed in [carshop.pdf](carshop.pdf) describes simple car shop. Every car shop has at least one brick and mortar shop or website. Car shop may consist of several cars they sell - either through website or in the shop. Every carshop has exactly one salesteam which is formed of one manager and at least one salesman.
+UML model showed in [model.pdf](model.pdf) describes simple car shop. Every car shop has at least one brick and mortar shop or website. Car shop may consist of several cars they sell - either through website or in the shop. Every carshop has exactly one salesteam which is formed of one manager and at least one salesman.
 
 ## Documentation
 This part describes several parts of whole model.
